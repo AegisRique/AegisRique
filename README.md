@@ -8,8 +8,8 @@ Cada código, como cada página lida, é um mundo de imaginação e possibilidad
 
 <div align="center">
   <a href="https://github.com/AegisRique">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AegisRique&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AegisRique&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AegisRique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AegisRique&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -29,9 +29,9 @@ Cada código, como cada página lida, é um mundo de imaginação e possibilidad
 
 <div align="center">
   <a href="mailto:AegisHenrique@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
   <a href="https://www.linkedin.com/in/henrique-vieira-da-silva-a5121b378/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=red">
   </a> 
 </div>
